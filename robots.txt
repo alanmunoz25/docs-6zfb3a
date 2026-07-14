@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yzslfq.rtb-system.online/sitemap.xml
